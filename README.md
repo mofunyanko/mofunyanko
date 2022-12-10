@@ -4,5 +4,5 @@
 
 ![GitHub Stats Card](https://github-readme-stats-smoky-ten.vercel.app/api?username=mofunyanko&count_private=true&show_icons=true&theme=dracula)![Top Languages Card (Compact layout)](https://github-readme-stats-smoky-ten.vercel.app/api/top-langs/?username=mofunyanko&layout=compact&count_private=true&theme=dracula)
 
-[![trophy](https://github-readme-stats-smoky-ten.vercel.app/?username=mofunyanko&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-readme-stats-smoky-ten.vercel.app/api?username=mofunyanko&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
