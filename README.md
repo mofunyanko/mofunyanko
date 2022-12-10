@@ -9,4 +9,4 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats-smoky-ten.vercel.app/api/top-langs/?username=mofunyanko&layout=compact&count_private=true&langs_count=10&theme=radical" />
  <p>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=mofunyanko&theme=juicyfresh&column=8)](https://github.com/mofunyanko)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mofunyanko&theme=juicyfresh&column=8)](https://github.com/ryo-ma/github-profile-trophy)
